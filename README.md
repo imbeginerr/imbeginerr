@@ -34,7 +34,7 @@
  
 <p>
   
- ✌️ &emsp; Enjoy to do programming and play sport <br/><br/>
+ ✌️ &emsp; Enjoy to do programming and play sports <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: nguyenduchaiiit@gmail.com<br/><br/>
 
