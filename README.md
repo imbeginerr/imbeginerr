@@ -11,7 +11,13 @@
 
 - 📫 How to reach me **nguyenduchaibr0@gmail.com**
 
-- ⚡ Fun fact **im a sadboi**
+- ⚡ Fun fact **
+The firsh realm: When you look at a mountain, it's a mountain, when you look at the ocean, it's an ocean.
+The second realm: When you look at the mountains but are not mountains, look at the sea but are not the sea.
+Final realm: When you look at the mountain it's still a mountain, when you look at the sea it's still the sea.
+If you achieve all realms, you can transcend kalpas and become an immortal.
+ANATTA
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
