@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm imbeginerr</h1>
+<h1 align="center">Hi 👋, I'm HYGGE</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imbeginerr&label=Profile%20views&color=0e75b6&style=flat" alt="imbeginerr" /> </p>
@@ -12,10 +12,10 @@
 - 📫 How to reach me **nguyenduchaibr0@gmail.com**
 
 - ⚡ Fun fact **
-The firsh realm: When you look at a mountain, it's a mountain, when you look at the ocean, it's an ocean.
+The first realm: When you look at a mountain, it's a mountain, when you look at the ocean, it's an ocean.
 The second realm: When you look at the mountains but are not mountains, look at the sea but are not the sea.
-Final realm: When you look at the mountain it's still a mountain, when you look at the sea it's still the sea.
-If you achieve all realms, you can transcend kalpas and become an immortal.
+Final realm: When you look at the mountain, it's still a mountain, and when you look at the sea, it's still the sea.
+If you achieve all realms, you can transcend Kalpas and become immortal.
 ANATTA
 **
 
