@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **java,vueJs**
+- 💬 Ask me about **Java,VueJs**
 
 - 📫 How to reach me **nguyenduchaibr0@gmail.com**
 
